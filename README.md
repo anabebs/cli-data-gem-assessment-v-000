@@ -97,7 +97,7 @@ Project reviews are focused on preparing you for technical interviews. Treat pro
 
 ## Resources
 
-- [How to build a ruby gem](http://guides.rubygems.org/make-your-own-gem/)
+- [How to build a ruby gem](bundl)
 - [How to publish your gem](http://guides.rubygems.org/publishing/)
 - [Environments, Requiring Files, Bundler, and Gems](https://www.youtube.com/watch?v=XBgZLm-sdl8) 
 - [Video- CLI Data Gem Walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI)
